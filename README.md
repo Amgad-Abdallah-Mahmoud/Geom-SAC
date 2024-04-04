@@ -1,4 +1,5 @@
-<h1 id="title">Geom-SAC</h1>
+<h1 id="title">Geom-SAC: Geometric Multi-Discrete Soft Actor Critic With Applications in De Novo Drug Design</h1>
+Code implementation of the paper: https://ieeexplore.ieee.org/document/10472486
 
 ![image](https://github.com/Amgad-Abdallah-Mahmoud/Geom-SAC/assets/165955939/062757f1-0763-4f42-95c3-1ecbb38a1a44)
 
