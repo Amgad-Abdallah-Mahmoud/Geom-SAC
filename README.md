@@ -1,6 +1,6 @@
 <h1 id="title">Geom-SAC</h1>
 
-<p align="center"><img src="![image](https://github.com/Amgad-Abdallah-Mahmoud/Geom-SAC/assets/165955939/062757f1-0763-4f42-95c3-1ecbb38a1a44)" alt="project-image"></p>
+![image](https://github.com/Amgad-Abdallah-Mahmoud/Geom-SAC/assets/165955939/062757f1-0763-4f42-95c3-1ecbb38a1a44)
 
 <p id="description">Finding new molecules with desirable properties has high computational and overhead costs. Much research has focused on generating candidate molecules in one- and two-dimensional spaces which has produced some favorable results. However extending these approaches to molecules in three- dimensional space would be far more useful because the representation of molecules is more realistic although three-dimensional methods have much higher computational costs. In this work we developed a geometric deep reinforcement learning agent that generates and optimizes molecules that could interact with a biochemical target. The agent can be used for generating molecules from scratch or for lead optimization when it enhances the properties of a given molecule whether by enhancing its drug-likeness or increasing its activity toward the target via implicit learning. Thus the agent works with molecules in three-dimensional space without high computational costs</p>
 
